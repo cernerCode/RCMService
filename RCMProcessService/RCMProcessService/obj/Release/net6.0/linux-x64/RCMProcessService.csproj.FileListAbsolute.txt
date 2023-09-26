@@ -1,0 +1,94 @@
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\appsettings.Development.json
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\appsettings.json
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\config.json
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService.deps.json
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService.runtimeconfig.json
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService.pdb
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\dotNetCore.Data.OracleClient.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Hosting.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\System.Diagnostics.EventLog.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.csproj.AssemblyReference.cache
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.AssemblyInfoInputs.cache
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.AssemblyInfo.cs
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.csproj.CopyComplete
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\refint\RCMProcessService.dll
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.pdb
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.genruntimeconfig.cache
+C:\Users\Muhammad Aamir\source\repos\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\ref\RCMProcessService.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\appsettings.Development.json
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\appsettings.json
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\config.json
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService.deps.json
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService.runtimeconfig.json
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\RCMProcessService.pdb
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\dotNetCore.Data.OracleClient.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Hosting.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Console.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\bin\Release\net6.0\linux-x64\System.Diagnostics.EventLog.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.csproj.AssemblyReference.cache
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.GeneratedMSBuildEditorConfig.editorconfig
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.AssemblyInfoInputs.cache
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.AssemblyInfo.cs
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.csproj.CoreCompileInputs.cache
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.csproj.CopyComplete
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\refint\RCMProcessService.dll
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.pdb
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\RCMProcessService.genruntimeconfig.cache
+C:\RCMCode\RCM process updated\RCMProcessService\RCMProcessService\obj\Release\net6.0\linux-x64\ref\RCMProcessService.dll

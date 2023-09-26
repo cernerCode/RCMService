@@ -1,0 +1,14 @@
+{
+  "RCMConfig": {
+    "ConnectionString": "Data Source = 10.2.46.237:1560/certdb; User ID = cert_admin; Password = EHS1234",
+    "SetupType": "EligAuth",
+    "riayatiUrl": "https://o-tmbapi.riayati.ae:8083/api/",
+    "riayatiuser": "7425",
+    "riayatipass": "bd017d8f-4c42-4633-ba10-61d1ab8c8305",
+    "delay": "120000",
+    "eligMpageURL": "http://10.192.19.15/discern/cert.moh.ae/",
+    "AuthMpageURL": "http://10.192.19.15/discern/cert.moh.ae/",
+    "Mpass": "cernertest@cert.moh.ae:wareed123",
+    "dynamicsender": "true"
+  }
+}
